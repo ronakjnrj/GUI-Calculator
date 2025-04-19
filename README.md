@@ -13,7 +13,7 @@ This project helped me:
 Explore the tkinter module for GUI development
 Understand event-driven programming in Python
 Improve logical structuring and code readability
-
+ 
 ### 💡 Tech Stack
 Python
 Tkinter
