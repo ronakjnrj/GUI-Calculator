@@ -5,7 +5,7 @@ The calculator replicates the basic functionality of a standard physical calcula
 ### 🔧 Features
 Clean and user-friendly interface
 Basic arithmetic operations: addition, subtraction, multiplication, and division
-Responsive button layout
+Responsive button layout 
 Input validation to prevent crashes
 
 ### 🎯 Purpose
