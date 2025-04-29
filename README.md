@@ -15,7 +15,7 @@ Understand event-driven programming in Python
 Improve logical structuring and code readability
  
 ### 💡 Tech Stack
-Python
+Python <br>
 Tkinter
 
 ### 📸 Screenshot
