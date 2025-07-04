@@ -19,7 +19,7 @@ Python <br>
 Tkinter
 
 ### 📸 Screenshot
-
+ 
 
 <img src="https://github.com/user-attachments/assets/f930eb01-e166-4580-9522-0253b06db2ec" alt="screenshot" width="400"/>
 
