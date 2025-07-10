@@ -1,4 +1,4 @@
-## 🧮 GUI Calculator using Python & Tkinter
+ ## 🧮 GUI Calculator using Python & Tkinter
 This project is a Graphical User Interface (GUI) Calculator developed using Python’s built-in tkinter library. It was designed as a hands-on practice project to strengthen my understanding of core Python concepts while also learning how to build interactive desktop applications.
 
 The calculator replicates the basic functionality of a standard physical calculator, allowing users to perform arithmetic operations such as addition, subtraction, multiplication, and division with ease. It features a clean and intuitive user interface, responsive buttons, and dynamic result display — all handled using event-driven programming with tkinter.
