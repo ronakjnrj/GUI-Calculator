@@ -9,7 +9,7 @@ Responsive button layout
 Input validation to prevent crashes 
   
 ### 🎯 Purpose    
-This project helped me: 
+This project helped me:  
 Explore the tkinter module for GUI development
 Understand event-driven programming in Python 
 Improve logical structuring and code readability
