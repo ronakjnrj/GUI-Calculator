@@ -4,7 +4,7 @@ This project is a Graphical User Interface (GUI) Calculator developed using Pyth
 The calculator replicates the basic functionality of a standard physical calculator, allowing users to perform arithmetic operations such as addition, subtraction, multiplication, and division with ease. It features a clean and intuitive user interface, responsive buttons, and dynamic result display — all handled using event-driven programming with tkinter.
 ### 🔧 Features
 Clean and user-friendly interface 
-Basic arithmetic operations: addition, subtraction, multiplication, and division
+Basic arithmetic operations: addition, subtraction, multiplication, and division 
 Responsive button layout   
 Input validation to prevent crashes  
   
