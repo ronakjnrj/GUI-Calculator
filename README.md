@@ -8,7 +8,7 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 Responsive button layout    
 Input validation to prevent crashes  
   
-### 🎯 Purpose    
+### 🎯 Purpose     
 This project helped me:   
 Explore the tkinter module for GUI development
 Understand event-driven programming in Python 
